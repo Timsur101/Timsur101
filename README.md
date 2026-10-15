@@ -1,6 +1,7 @@
 # Тимофей Сурин
 
 Python backend: FastAPI · SQLAlchemy · PostgreSQL · Celery · Docker · pytest
+
 Студент МИРЭА (программная инженерия, выпуск 2027). Ищу стажировку или работу Python-бэкендером в Москве.
 
 **Проекты:**
